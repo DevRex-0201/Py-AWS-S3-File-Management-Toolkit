@@ -1,7 +1,3 @@
-Creating a unified README document for both the upload and download scripts will streamline the process for your users, offering a comprehensive guide on how to use both tools effectively. Below is a suggested format for such a document.
-
----
-
 # AWS S3 File Management Toolkit
 
 ## Overview
