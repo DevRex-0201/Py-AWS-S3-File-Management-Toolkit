@@ -6,7 +6,7 @@ This toolkit provides two main functionalities: uploading images contained withi
 
 ## Video Preview
 
-[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-AWS-S3-File-Management-Toolkit.png)](https://drive.google.com/file/d/10Jhiy6MHYIuvQ1q5WwVW6LwjVGgR9KiI/view?usp=drive_link)
+[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-AWS-S3-File-Management-Toolkit.png)](https://drive.google.com/file/d/1VqCbIoOFy8HOJ7KIJWbnIP1JeG0TpP0L/view?usp=drive_link)
 
 ## Prerequisites
 
