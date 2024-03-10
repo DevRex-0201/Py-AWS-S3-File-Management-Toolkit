@@ -4,6 +4,10 @@
 
 This toolkit provides two main functionalities: uploading images contained within ZIP files to an AWS S3 bucket (Upload Script) and generating plain URLs for files stored within a specific folder of an AWS S3 bucket, exporting these URLs to a CSV file (Download Script). Designed with a user-friendly graphical interface, this toolkit simplifies the process of managing files in an S3 bucket.
 
+## Video Preview
+
+[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-AWS-S3-File-Management-Toolkit.png)](https://drive.google.com/file/d/10Jhiy6MHYIuvQ1q5WwVW6LwjVGgR9KiI/view?usp=drive_link)
+
 ## Prerequisites
 
 Before using this toolkit, ensure you have:
